@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,cAAc,AAAA,MAAM,CAAC,KAAK;AAC1B,cAAc,AAAA,MAAM,CAAC,QAAQ,CAAC;EAC5B,MAAM,EAAE,aAAa;EACrB,aAAa,EAAE,GAAG;CACnB;;AAED,AAAA,cAAc,AAAA,MAAM,CAAC,IAAI,CAAC;EACxB,KAAK,EAAE,GAAG;CACX;;AAED,AAAA,MAAM,CAAC,IAAI,CAAC;EACV,aAAa,EAAE,GAAG;CACnB",
+    "sources": [
+        "FormsControls.module.scss"
+    ],
+    "names": [],
+    "file": "FormsControls.module.css"
+}

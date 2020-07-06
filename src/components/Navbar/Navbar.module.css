@@ -1,0 +1,27 @@
+.nav {
+  grid-area: n;
+  width: 250px;
+  color: white;
+}
+
+.nav__item {
+  background: #524e4e;
+  color: white;
+  padding: 10px;
+  border-bottom: 1px solid white;
+  text-decoration: none;
+}
+
+.links {
+  text-decoration: none;
+  color: white;
+}
+
+.active {
+  color: yellowgreen;
+}
+
+.settings {
+  color: orange;
+}
+/*# sourceMappingURL=Navbar.module.css.map */

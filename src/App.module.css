@@ -1,0 +1,43 @@
+.header {
+  -ms-grid-row: 1;
+  -ms-grid-column: 1;
+  -ms-grid-column-span: 2;
+  grid-area: h;
+}
+
+.nav {
+  -ms-grid-row: 2;
+  -ms-grid-column: 1;
+  grid-area: n;
+  height: minmax(300px auto);
+  float: left;
+}
+
+.profile {
+  -ms-grid-row: 2;
+  -ms-grid-column: 2;
+  grid-area: m;
+  min-height: 100%;
+}
+
+.app {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-rows: 70px 1fr;
+      grid-template-rows: 70px 1fr;
+  -ms-grid-columns: 250px 5fr;
+      grid-template-columns: 250px 5fr;
+  text-align: left;
+  font-size: 18px;
+      grid-template-areas: 'h h' 'n m';
+}
+
+.black {
+  background: black;
+}
+
+.links {
+  color: white;
+  text-decoration: none;
+}
+/*# sourceMappingURL=App.module.css.map */

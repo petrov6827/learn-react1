@@ -1,0 +1,30 @@
+.nav {
+  grid-area: n;
+  width: 250px;
+  color: white;
+}
+
+.nav__item {
+  background: rgb(82, 78, 78);
+  color: white;
+  padding: 10px;
+  border-bottom: 1px solid white;
+  text-decoration: none;
+}
+
+.nav__item:hover {
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.links {
+  text-decoration: none;
+  color: white;
+}
+
+.active {
+  color: yellowgreen;
+}
+
+.settings {
+  color: orange;
+}

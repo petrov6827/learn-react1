@@ -1,0 +1,50 @@
+.dialogs {
+  background-color: #bd8282;
+  color: white;
+  padding: 5px 10px;
+}
+
+.d__content {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 2fr 3fr;
+      grid-template-columns: 2fr 3fr;
+}
+
+.d__items,
+.message {
+  padding: 10px;
+}
+
+.d__friends .active {
+  color: yellowgreen;
+}
+
+.d__friends {
+  border-right: 1px solid white;
+}
+
+.input {
+  font-size: 16px;
+  line-height: 22px;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 10px;
+  border: none;
+  margin-bottom: 10px;
+  outline: none;
+}
+
+.sendMessage {
+  margin: 10px;
+  vertical-align: top;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 16px;
+  margin-bottom: 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  justify-self: end;
+}
+/*# sourceMappingURL=Dialogs.module.css.map */

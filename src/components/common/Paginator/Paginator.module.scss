@@ -1,0 +1,28 @@
+
+.pages__item {
+  margin: 10px;
+}
+
+.pages {
+  margin-bottom: 20px;
+  margin-left: 50px;
+  display: flex;
+  color: white;
+  padding: 5px 10px;
+  width: auto;
+justify-content: center;
+  /* flex-wrap: nowrap; */
+  margin: 0 auto;
+  overflow: hidden;
+}
+.selectedPage {
+  font-weight: bold;
+  opacity: 1;
+}
+.pages span {
+  margin-right: 10px;
+}
+
+.pageNumber { 
+  padding: 2px;
+}

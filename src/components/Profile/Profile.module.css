@@ -1,0 +1,18 @@
+.profile__item {
+  background-color: #bd8282;
+  color: white;
+  padding: 5px 10px;
+}
+
+.profile__item img {
+  vertical-align: middle;
+  text-align: center;
+  height: 150px;
+  overflow: hidden;
+  margin: 0;
+}
+
+.profile {
+  grid-area: m;
+}
+/*# sourceMappingURL=Profile.module.css.map */

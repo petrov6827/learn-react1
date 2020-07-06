@@ -1,0 +1,27 @@
+.post__item {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: relative;
+  border: 1px solid grey;
+  padding: 10px;
+  justify-items: center;
+  border-radius: 5px;
+  margin-bottom: 8px;
+}
+
+.post__item img {
+  width: 50px;
+  height: 50px;
+  border-radius: 15px;
+  margin-right: 10px;
+}
+
+.post__like {
+  margin-left: 20px;
+  font-weight: 700;
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+}
+/*# sourceMappingURL=Post.module.css.map */
