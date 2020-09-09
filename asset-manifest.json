@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/learn-react/static/css/main.0b2a6ac3.chunk.css",
+    "main.js": "/learn-react/static/js/main.2c78f039.chunk.js",
+    "main.js.map": "/learn-react/static/js/main.2c78f039.chunk.js.map",
+    "runtime-main.js": "/learn-react/static/js/runtime-main.96e9939a.js",
+    "runtime-main.js.map": "/learn-react/static/js/runtime-main.96e9939a.js.map",
+    "static/css/2.8303cdc9.chunk.css": "/learn-react/static/css/2.8303cdc9.chunk.css",
+    "static/js/2.6ee7e3fe.chunk.js": "/learn-react/static/js/2.6ee7e3fe.chunk.js",
+    "static/js/2.6ee7e3fe.chunk.js.map": "/learn-react/static/js/2.6ee7e3fe.chunk.js.map",
+    "index.html": "/learn-react/index.html",
+    "precache-manifest.83ddd7395cc56fc7632b7a338ebc7442.js": "/learn-react/precache-manifest.83ddd7395cc56fc7632b7a338ebc7442.js",
+    "service-worker.js": "/learn-react/service-worker.js",
+    "static/css/2.8303cdc9.chunk.css.map": "/learn-react/static/css/2.8303cdc9.chunk.css.map",
+    "static/css/main.0b2a6ac3.chunk.css.map": "/learn-react/static/css/main.0b2a6ac3.chunk.css.map",
+    "static/js/2.6ee7e3fe.chunk.js.LICENSE.txt": "/learn-react/static/js/2.6ee7e3fe.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/learn-react/static/media/roboto-latin-900-normal.bb1e4dc6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96e9939a.js",
+    "static/css/2.8303cdc9.chunk.css",
+    "static/js/2.6ee7e3fe.chunk.js",
+    "static/css/main.0b2a6ac3.chunk.css",
+    "static/js/main.2c78f039.chunk.js"
+  ]
+}
